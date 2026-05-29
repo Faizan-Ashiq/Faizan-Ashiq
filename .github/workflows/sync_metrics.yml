@@ -1,0 +1,17 @@
+name: Update Coding Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every single night at midnight
+  workflow_dispatch: # Allows you to trigger it manually with a single click
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Fetch HackerRank Stats
+        uses: flashvayne/hackerrank-profile-readme-action@v1.0
+        with:
+          username: hellofaizan899
