@@ -8,6 +8,8 @@
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://faizanportfolioaiii.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-faizan-wahla) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itx_wahla) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hellofaizan899@gmail.com)
+### 🐍 My HackerRank Python Badge Status:
+🔍 [![HackerRank Python Badge](https://hackerrank-badges.herokuapp.com/api/faizanwahla899?badge=Python&stars=true)](https://www.hackerrank.com/domains/python)
 
 ---
 
